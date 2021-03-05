@@ -1,0 +1,38 @@
+tambahan mgid untuk di tengah artikel jatimtimes
+<!-- Composite Start -->
+<div id="M558029ScriptRootC1098064">
+</div>
+<script src="https://jsc.mgid.com/j/a/jatimtimes.com.1098064.js" async></script>
+<!-- Composite End -->
+
+AMP code
+<amp-embed width="600" height="600" layout="responsive" type="mgid" data-publisher="jatimtimes.com" data-widget="1098064" data-container="M558029ScriptRootC1098064" > </amp-embed>
+
+----
+atas judul artikel
+
+<style type="text/css">
+.adslot_1 { width: 320px; height: 100px; }
+@media (min-width:500px) { .adslot_1 { width: 468px; height: 60px; } }
+@media (min-width:800px) { .adslot_1 { width: 728px; height: 90px; } }
+</style>
+<!-- jatim_atasjudul -->
+<ins class="adsbygoogle adslot_1"
+     style="display:inline-block"
+     data-ad-client="ca-pub-9791561448547714"
+     data-ad-slot="5345222021"
+     data-ad-format="banner"
+     data-full-width-responsive="false"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+AMP
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-9791561448547714"
+     data-ad-slot="5345222021"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
