@@ -1,38 +1,121 @@
-tambahan mgid untuk di tengah artikel jatimtimes
-<!-- Composite Start -->
-<div id="M558029ScriptRootC1098064">
-</div>
-<script src="https://jsc.mgid.com/j/a/jatimtimes.com.1098064.js" async></script>
-<!-- Composite End -->
-
-AMP code
-<amp-embed width="600" height="600" layout="responsive" type="mgid" data-publisher="jatimtimes.com" data-widget="1098064" data-container="M558029ScriptRootC1098064" > </amp-embed>
-
-----
-atas judul artikel
-
-<style type="text/css">
-.adslot_1 { width: 320px; height: 100px; }
-@media (min-width:500px) { .adslot_1 { width: 468px; height: 60px; } }
-@media (min-width:800px) { .adslot_1 { width: 728px; height: 90px; } }
-</style>
-<!-- jatim_atasjudul -->
-<ins class="adsbygoogle adslot_1"
-     style="display:inline-block"
-     data-ad-client="ca-pub-9791561448547714"
-     data-ad-slot="5345222021"
-     data-ad-format="banner"
-     data-full-width-responsive="false"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-AMP
-<amp-ad width="100vw" height="320"
-     type="adsense"
-     data-ad-client="ca-pub-9791561448547714"
-     data-ad-slot="5345222021"
-     data-auto-format="rspv"
-     data-full-width="">
-  <div overflow=""></div>
-</amp-ad>
+[
+  {
+    "title": "Nature",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Nature",
+        "image": "",
+        "provider": "flickr",
+        "arguments": [
+          "72157650623004022",
+          "photoset"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Iceland",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Iceland",
+        "image": "",
+        "provider": "flickr",
+        "arguments": [
+          "72157687591266393",
+          "photoset"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Switzerland and France",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Switzerland and France",
+        "image": "",
+        "provider": "flickr",
+        "arguments": [
+          "72157685046853714",
+          "photoset"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Canary islands",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Canary islands",
+        "image": "",
+        "provider": "flickr",
+        "arguments": [
+          "72157674738693452",
+          "photoset"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Berlin",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Berlin",
+        "image": "",
+        "provider": "flickr",
+        "arguments": [
+          "72157680728452265",
+          "photoset"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "New York",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "New York",
+        "image": "",
+        "provider": "flickr",
+        "arguments": [
+          "72157629025244071",
+          "photoset"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Paris",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Paris",
+        "image": "",
+        "provider": "flickr",
+        "arguments": [
+          "72157631707062493",
+          "photoset"
+        ]
+      }
+    ],
+    "iap": false
+  }
+]
